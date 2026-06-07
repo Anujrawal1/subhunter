@@ -14,7 +14,7 @@ reachable targets with source tagging.
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/subhunter.git
+git clone https://github.com/Anujrawal1/subhunter.git
 cd subhunter
 pip install -r requirements.txt
 cp config.yaml.example config.yaml
