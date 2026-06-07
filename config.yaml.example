@@ -1,6 +1,41 @@
 # SubHunter API Keys Configuration
-# Copy this file to config.yaml and fill in your free API keys
+# Copy this file: cp config.yaml.example config.yaml
+# Then fill in your free API keys below
 
-virustotal: ""       # Sign up: https://virustotal.com
-securitytrails: ""   # Sign up: https://securitytrails.com
-alienvault: ""       # Sign up: https://otx.alienvault.com
+# 1. VirusTotal — 500 req/day free
+# Sign up: https://virustotal.com
+virustotal: ""
+
+# 2. SecurityTrails — 50 req/month free
+# Sign up: https://securitytrails.com
+securitytrails: ""
+
+# 3. AlienVault OTX — unlimited free
+# Sign up: https://otx.alienvault.com
+alienvault: ""
+
+# 4. Shodan — 100 queries/month free
+# Sign up: https://account.shodan.io/register
+shodan: ""
+
+# 5. Censys — 250 req/month free
+# Sign up: https://accounts.censys.io/register
+censys_api_id: ""
+censys_api_secret: ""
+
+# 6. BinaryEdge — 250 req/month free
+# Sign up: https://app.binaryedge.io/sign-up
+binaryedge: ""
+
+# 7. FullHunt — 10 req/day free
+# Sign up: https://fullhunt.io
+fullhunt: ""
+
+# 8. URLScan.io — 1500 req/day free
+# Sign up: https://urlscan.io/user/signup
+urlscan: ""
+
+# 9. crt.sh — unlimited, no key needed (auto-used)
+# 10. HackerTarget — no key needed (auto-used)
+# 11. ThreatCrowd — no key needed (auto-used)
+# 12. RapidDNS — no key needed (auto-used)
