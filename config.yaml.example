@@ -1,0 +1,6 @@
+# SubHunter API Keys Configuration
+# Copy this file to config.yaml and fill in your free API keys
+
+virustotal: ""       # Sign up: https://virustotal.com
+securitytrails: ""   # Sign up: https://securitytrails.com
+alienvault: ""       # Sign up: https://otx.alienvault.com

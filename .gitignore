@@ -1,0 +1,7 @@
+config.yaml
+*.txt.bak
+__pycache__/
+*.pyc
+.env
+subhunter_*.txt
+test.txt
